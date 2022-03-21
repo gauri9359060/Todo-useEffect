@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Eat",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "code",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Sleep",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Repeat",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
